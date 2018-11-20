@@ -1,7 +1,5 @@
 package selenium;
 
-import javax.swing.border.TitledBorder;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.By.ByXPath;
 import org.openqa.selenium.WebDriver;
